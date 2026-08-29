@@ -1,7 +1,7 @@
 This is a fork of Flex Launcher adapted for macOS M1/M4 Arm64 and Raspberry Pi5 Arm64 Linux running SuperBox64OS. SuperBox64OS is based on Ubuntu 23.10 with redesigned desktop and dock icons for a Mac-like experience.
 
-Additions by Todd Bruss:
-Added native Arcade Spinner support plus enhanced Trackball and Classic Arcade game controller support. Flex Launcher serves as the primary Arcade game emulator launcher for SuperBox64OS, also created by Todd Bruss.
+Additions by Heisenburg:
+Added native Arcade Spinner support plus enhanced Trackball and Classic Arcade game controller support. Flex Launcher serves as the primary Arcade game emulator launcher for SuperBox64OS, also created by Heisenburg.
 
 Technical Notes:
 SDL2 video changes support Metal graphics on macOS. The Mac version was used for development and testing the Linux counterpart. Mac development ceased after Linux completion, with a new native Swift launcher called "Game Changer" created separately from scratch. 
